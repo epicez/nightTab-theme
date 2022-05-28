@@ -9,4 +9,4 @@ For more information please head over to https://github.com/zombieFox/nightTab
 
 # Instruction's
 
-On the nightTab page click on the settings icon then head over to the Data tab then select "Import from file" then find the epic nighttab skin.json file and select it and press open, on the newly prompted page press "Import" and you are done.
+On the nightTab page click on the settings icon then head over to the Data tab then select "Import from file" then find the epic night tab skin.json file and select it and press open, on the newly prompted page press "Import" and you are done.
