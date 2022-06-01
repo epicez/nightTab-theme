@@ -5,7 +5,7 @@ nightTab is a custom new tab page for your browser that can be tweaked to your l
 
 For more information please head over to https://github.com/zombieFox/nightTab
 
-![image](https://user-images.githubusercontent.com/92844246/170659447-feeff22c-7ea1-41a6-a0e9-62f625e8697b.png)
+![image](https://user-images.githubusercontent.com/92844246/171409598-6e8ec0c1-4a15-49ac-914b-333cf4b22498.png)
 
 # Instructions
 
