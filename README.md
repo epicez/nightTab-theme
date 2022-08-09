@@ -3,7 +3,7 @@ Neon Street's
 
 nightTab is a custom new tab page for your browser that can be tweaked to your likings with different layouts, backgrounds and boomarks.
 
-For more information please head over to https://github.com/zombieFox/nightTab
+For more information head over to https://github.com/zombieFox/nightTab
 
 ![image](https://user-images.githubusercontent.com/92844246/171409598-6e8ec0c1-4a15-49ac-914b-333cf4b22498.png)
 
